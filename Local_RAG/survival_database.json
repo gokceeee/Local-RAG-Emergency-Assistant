@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "kaynak": "Deprem Güvenlik Rehberi",
+        "chunk_text": "Ev İçinde Deprem Güvenliği: Deprem sarsıntısı başladığında kesinlikle panik yapılmamalıdır. Balkona çıkılmamalı, pencerelerden uzak durulmalı, merdivenlere veya asansörlere koşulmamalıdır. Evin içinde önceden belirlenmiş güvenli bir nesnenin (sağlam bir masa, yatak kenarı veya çamaşır makinesi yanı) yanına çökülmeli, sırt hedef küçültecek şekilde nesneye verilmeli, baş ellerle korunarak çök-kapan-tutun pozisyonu alınmalıdır. Sarsıntı bitene kadar bu pozisyonda beklenmelidir."
+    },
+    {
+        "id": 2,
+        "kaynak": "Deprem Güvenlik Rehberi",
+        "chunk_text": "Deprem Sonrası Ev İçi Güvenlik Önlemleri: Deprem sarsıntısı tamamen durduğunda paniğe kapılmadan sakin adımlarla bina tahliye edilmelidir. Tahliye öncesinde elektrik sigortaları, doğalgaz vanası ve su ana vanası derhal kapatılmalıdır. Acil durum çantası yanımıza alınmalı ve asansör kesinlikle kullanılmadan yangın/tahliye merdiveninden inilmelidir. Dışarı çıkınca binalardan ve direklerden uzak, açık güvenli toplanma alanına gidilmelidir."
+    },
+    {
+        "id": 3,
+        "kaynak": "Deprem Güvenlik Rehberi",
+        "chunk_text": "Okul, Ofis ve Hastanelerde Deprem Güvenliği: Okulda veya sınıfta depreme yakalanan bir öğrenci kesinlikle sıraların altına girmemelidir. Sıranın hemen yanına geçip sırtı sıraya vererek çök-kapan-tutun pozisyonu alınmalı, baş kitap veya çantayla korunmalıdır. Sarsıntı bitmeden sınıftan çıkılmamalıdır. Ofiste veya plazada sarsıntı başladığında büyük cam pencerelerden ve dosya dolaplarından uzak durulup sağlam bir masanın yanına çökülmelidir. Asansörler jeneratör dahi olsa asla kullanılmamalıdır. Hastanede tedavi görürken deprem olursa, hasta yatağındayken başını yastıkla korumalıdır. Ayaktaysa tıbbi cihazlardan uzak durarak yatağın yanına çökmeli ve doktorların tahliye kararı vermesi beklenmelidir."
+    },
+    {
+        "id": 4,
+        "kaynak": "Deprem Güvenlik Rehberi",
+        "chunk_text": "Ulaşım Araçlarında Deprem Güvenliği: Araç içindeyken deprem sarsıntısı başladığında araç; binalardan, ağaçlardan, elektrik direklerinden, köprülerden ve üst geçitlerden uzak, güvenli ve açık bir yere çekilip durdurulmalıdır. Motor kapatılmalı, kontak anahtarı üzerinde bırakılmalı ve sarsıntı bitene kadar araç içinde beklenmelidir. Metroda veya trende seyahat ederken sarsıntı başladığında, trenin durması beklenmeli ve vagonlardan dışarı çıkılmamalıdır. Elektrik çarpması tehlikesine karşı raylara kesinlikle inilmemeli, sıkıca tutunarak yetkililerin anonslarına uyulmalıdır."
+    },
+    {
+        "id": 5,
+        "kaynak": "Yangın Güvenlik Rehberi",
+        "chunk_text": "Ev İçi Yangınlara Müdahale: Evde genel bir yangın çıkarsa paniğe kapılmadan 112 aranmalıdır. Yangın küçükse müdahale edilebilir, ancak alevler büyümüşse oksijen girmesini engellemek için kapılar kapatılarak bina hızla tahliye edilmelidir. Mutfakta kızartma yaparken yağ alev alırsa tavaya KESİNLİKLE SU DÖKÜLMEMELİDİR. Su alevleri patlatır. Ocağın altı kapatılmalı ve tavanın kapağı veya nemli bir bez üzerine kapatılarak oksijen teması kesilmelidir. Elektrik kontağından yangın çıkarsa ana şalter kapatılmalı, su ile kesinlikle müdahale edilmemelidir; sadece karbondioksit (CO2) veya kuru kimyevi tozlu söndürücüler kullanılmalıdır."
+    },
+    {
+        "id": 6,
+        "kaynak": "Yangın Güvenlik Rehberi",
+        "chunk_text": "Kişisel ve Çevresel Yangın Güvenliği: Kıyafetlerimiz tutuşursa kesinlikle panikleyip koşulmamalıdır; koşmak alevi artırır. Derhal yere yatıp ellerle yüz kapatılarak sağa sola yuvarlanılmalıdır (DUR-YAT-YUVARLAN kuralı). Çevrede biri varsa yanan kişinin üzerine battaniye atarak havayla temasını kesmelidir. Orman yangını bölgesinde kalındığında rüzgarın tersi yönünde, yanıcı bitki örtüsünün az olduğu veya önceden yanmış açık alanlara uzaklaşılmalıdır. Yoğun dumanlı bir binada mahsur kalındığında, duman yukarı yükseldiği için yere en yakın yerde (zeminde) sürünerek/emekleyerek ilerlenmeli ve ağız ıslak mendille kapatılmalıdır."
+    },
+    {
+        "id": 7,
+        "kaynak": "Yangın Güvenlik Rehberi",
+        "chunk_text": "Yangın Anında Asansör Kullanımı: Binalarda yangın çıktığında elektrik kesintisi yaşanması, asansör kuyusunun yoğun zehirli dumanla dolması ve asansör kabininin yangın çıkan katta otomatik olarak açılması gibi tehlikeler nedeniyle KESİNLİKLE ASANSÖR KULLANILMAMALIDIR. Binayı tahliye etmek için yalnızca duman sızdırmaz acil durum yangın merdivenleri tercih edilmelidir."
+    },
+    {
+        "id": 8,
+        "kaynak": "Yangın Güvenlik Rehberi",
+        "chunk_text": "Yangın Söndürme Yöntemleri ve Söndürücü Kullanımı: Yangınlar sınıflarına göre söndürülür. Odun, kağıt ve kumaş gibi katı yangınları (A Sınıfı) suyla söndürülebilir. Akaryakıt ve yağ gibi sıvı yangınları (B Sınıfı) suyla söndürülmez, hava teması köpük veya tozla kesilmelidir. Gaz yangınlarında (C Sınıfı) önce gaz akışı kesilmelidir. Yangın söndürme tüpü P.A.S.S. yöntemiyle kullanılır: Pimi çek, hortumu yangının kaynağına doğrult, tetiği sık ve alevleri süpürür gibi tarayarak müdahale et."
+    },
+    {
+        "id": 9,
+        "kaynak": "Su Kaynaklı Afetler Rehberi",
+        "chunk_text": "Sel ve Tsunami Güvenliği: Sel uyarısı yapıldığında veya su baskını başladığında hızla yüksek tepelere ve binaların üst katlarına çıkılmalıdır. Diz boyunda bile olsa akan sel suyuna girilmemeli, elektrik ve gaz vanaları derhal kapatılmalıdır. Araçla seyir halindeyken sel sularına yakalanılırsa suyun içinden geçilmeye çalışılmamalıdır. Araç suda çok kolay sürüklenir; su yükseliyorsa araç terk edilip yaya olarak yüksek bir yere çıkılmalıdır. Deprem sonrası deniz kenarında veya plajda denizde garip bir çekilme veya dalga görülürse tsunami uyarısı/siren beklenmeden derhal kıyıdan uzaklaşılıp yüksek binaların üst katlarına çıkılmalıdır."
+    },
+    {
+        "id": 10,
+        "kaynak": "Su Kaynaklı Afetler Rehberi",
+        "chunk_text": "Açık Alanda Sel Güvenliği: Sel durumunda dışarıda veya sokaktaysanız su birikintilerinden ve hızla akan akıntılardan kesinlikle uzak durulmalıdır. Diz boyundaki sel suyu bir insanı devirebilir. Elektrik direklerinden, köprülerden ve menfezlerden uzak durulmalı, sel sularına hiçbir koşulda girilmemelidir. En yakın yüksek ve sağlam noktaya doğru hareket edilmelidir."
+    },
+    {
+        "id": 11,
+        "kaynak": "Su Kaynaklı Afetler Rehberi",
+        "chunk_text": "Evde Sel Güvenliği: Evdeyken sel uyarısı alındığında elektrik, doğalgaz ve su ana vanaları derhal kapatılmalıdır. Evdeki değerli eşyalar ve elektronik aletler binanın üst katlarına taşınmalıdır. Giriş katlarındaki ve bodrumlardaki daireler hızla tahliye edilerek binanın en üst katına çıkılmalı ya da yüksek dış alanlara geçilmelidir."
+    },
+    {
+        "id": 12,
+        "kaynak": "Su Kaynaklı Afetler Rehberi",
+        "chunk_text": "Sel Sonrası Yapılması Gerekenler: Sel suları çekilse bile yetkililer izin vermeden eve girilmemelidir. Sel sularının taşıdığı mikroplar nedeniyle musluk suyu içilmemeli, sel suyuyla temas etmiş gıdalar imha edilmelidir. Evdeki elektrik hatları ve cihazlar ıslakken asla çalıştırılmamalı, bir uzman tarafından kontrol edilmeden elektrik vanaları açılmamalıdır."
+    },
+    {
+        "id": 13,
+        "kaynak": "Doğa Olayları Güvenlik Rehberi",
+        "chunk_text": "Çığ ve Heyelan Anında Yapılması Gerekenler: Dağlık alanda çığ geliyorsa yamaç kenarlarına doğru kaçılmaya çalışılmalı, eğer çığa yakalanılmışsa eller ve kollar kullanılarak yüzme hareketleri yapılıp karın üstünde kalınmalı ve nefes boşluğu açmak için eller yüzün önünde birleştirilmelidir. Toprak kayması (heyelan) bölgesinde bulunuluyorsa ve çatlaklar/garip sesler fark edilirse bölge derhal terk edilmeli, sağlam ve yüksek noktalara uzaklaşılmalıdır. Heyelan yolunda kesinlikle durulmamalıdır."
+    },
+    {
+        "id": 14,
+        "kaynak": "Doğa Olayları Güvenlik Rehberi",
+        "chunk_text": "Çığ Sonrası Güvenlik ve Arama: Çığ olayı bittikten sonra eğer karda mahsur kalmadıysanız derhal çevre güvenliğini kontrol edin. 112'yi arayarak kurtarma ekiplerine haber verin ve çığ altında kalanların yerlerini belirlemek için son görüldükleri noktaları işaretleyin. İkinci bir çığ tehlikesine karşı her zaman tetikte olun ve yamaç altlarında durmayın."
+    },
+    {
+        "id": 15,
+        "kaynak": "İlk Yardım Rehberi",
+        "chunk_text": "Kritik İlk Yardım Müdahaleleri (Boğulma, Kanama, Yanık): Yemek yerken nefes borusu tıkanan (hiç nefes alamayan ve moraran) birine derhal Heimlich manevrası uygulanmalıdır: Hastanın arkasına geçilir, yumruk yapılan el göbek deliğinin üstüne yerleştirilir ve içe-yukarı doğru kuvvetlice baskı yapılır. Ciddi ve derin kanamalarda temiz bir bezle kanayan bölgenin üzerine doğrudan, sıkıca baskı uygulanmalı ve bölge kalp seviyesinden yukarıda tutulmalıdır. Isı kaynaklı yanıklarda ise yanan bölge en az 10-15 dakika boyunca taze ve serin (buz gibi olmayan) akan su altında tutulmalıdır. Yanığın üzerine diş macunu, yoğurt, buz SÜRÜLMEMELİDİR."
+    },
+    {
+        "id": 16,
+        "kaynak": "İlk Yardım Rehberi",
+        "chunk_text": "Kırık, Zehirlenme ve Kimyasal Kazalara Müdahale: Kırık, çıkık veya burkulmalarda yaralı bölge hareket ettirilmemeli ve yerine oturtulmaya çalışılmamalıdır. Tahta veya kartonla (atel) sabitlenip 112 beklenmelidir. Zehirlenme durumunda evde hasta kesinlikle kusturulmamalıdır; bilinci açıksa ağzı suyla çalkalanmalı, derhal 114 (UZEM) veya 112 aranmalıdır. Kimyasal madde göze veya cilde sıçrarsa zaman kaybetmeden sıçrayan bölge bol ve tazyiksiz temiz suyla en az 15-20 dakika yıkanmalıdır. Göz yıkanırken suyun diğer göze akmaması için baş yana eğilmeli ve hemen acile gidilmelidir."
+    },
+    {
+        "id": 17,
+        "kaynak": "İlk Yardım Rehberi",
+        "chunk_text": "Kırık Kola İlk Yardım Müdahalesi: Kırık veya çıkık şüphesi olan kol kesinlikle hareket ettirilmemelidir. Kol, tahta veya mukavva parçası (atel) kullanılarak dirsek ve el bileğini kapsayacak şekilde sabitlenmeli ve sargı beziyle boyna asılmalıdır. Eğer kemik uçları dışarı çıkmışsa (açık kırık), yaranın üzeri temiz bir bezle kapatılmalı ve hemen 112 acil servis çağrılmalıdır."
+    },
+    {
+        "id": 18,
+        "kaynak": "İlk Yardım Rehberi",
+        "chunk_text": "Yılan Isırmasında İlk Yardım: Yılan ısırmasında hasta sakin tutulmalı ve zehrin yayılmasını engellemek için hareket ettirilmemelidir. Isırılan bölge (kol veya bacak) kalp seviyesinin altında tutulmalı ve sabitleştirilmelidir. Yılan ısırığı bölgesi kesinlikle emilmemeli, kesilmemeli ve turnike (sıkı bağ) uygulanmamalıdır. Yara temiz suyla yıkanıp üzeri hafifçe kapatılarak en yakın hastaneye acilen gidilmeli ve yılan panzehiri uygulanması sağlanmalıdır."
+    },
+    {
+        "id": 19,
+        "kaynak": "Afet Hazırlık ve Genel Güvenlik Rehberi",
+        "chunk_text": "Afet Öncesi Hazırlık ve Gaz Sızıntısı: Afet ve acil durum (deprem) çantası içinde en az 72 saat yetecek su, uzun ömürlü kuru gıda, pilli radyo, fener, yedek pil, ilk yardım çantası, düdük, çakı, evrak fotokopileri, kişisel ilaçlar ve yedek kıyafet bulunmalıdır. Aile afet planı; deprem anında evin güvenli bölgelerinin ve afet sonrası buluşma noktalarının önceden belirlendiği plandır. Ek olarak, evde doğalgaz kokusu alındığında derhal doğalgaz vanası kapatılmalı, pencereler açılmalıdır. Elektrik düğmelerine dokunulmamalı, çakmak yakılmamalı ve ev telefonu kullanılmamalıdır; dışarı çıkılıp doğalgaz acil (187) aranmalıdır."
+    },
+    {
+        "id": 20,
+        "kaynak": "Afet Hazırlık ve Genel Güvenlik Rehberi",
+        "chunk_text": "Afet ve Acil Durum Çantası Detaylı İçeriği: Deprem veya afet sonrasında hayatta kalmayı kolaylaştırmak için afet çantasında: kişi başı günlük 4 litre su, konserve ve bisküvi gibi yüksek kalorili gıdalar, pilli fener, düdük, toz maskesi, hijyen paketi (sabun, ıslak mendil), çok amaçlı çakı, nakit para, önemli belgelerin kopyaları, mevsime uygun kıyafetler ve yedek piller yer almalıdır. Çanta kolayca ulaşılabilecek bir çıkış rotasında saklanmalıdır."
+    },
+    {
+        "id": 21,
+        "kaynak": "Nükleer ve Radyolojik Tehlikeler Rehberi",
+        "chunk_text": "Nükleer Saldırı ve Sığınak Güvenliği: Nükleer bir patlama veya radyolojik serpinti durumunda en yakın sığınağa veya yer altı alanına (sığınak, bodrum katı) geçilmelidir. Serpinti ve radyasyon seviyesinin en tehlikeli olduğu ilk aşamayı atlatmak için yetkililerden aksi bir anons veya tahliye talimatı gelene kadar sığınakta en az 14 gün (2 hafta) boyunca kalınması kritik önem taşır. Sığınak içinde kapı ve pencereler sızdırmaz şekilde kapatılmalı, havalandırmalar kapatılmalı ve konserve gibi kapalı gıdalar ile şişelenmiş su tüketilmelidir."
+    },
+    {
+        "id": 22,
+        "kaynak": "Doğada Hayatta Kalma Rehberi",
+        "chunk_text": "Doğada Yenilebilir Yabani Otlar ve Bitkiler: Doğada hayatta kalma durumunda güvenle tüketilebilecek bazı yaygın yenilebilir yabani otlar şunlardır: Isırgan otu (pişirilerek yenmeli), karahindiba (yaprakları ve kökü yenilebilir), ebegümeci ve semizotu. Bilinmeyen bir bitkiyi tüketmeden önce kesinlikle Evrensel Yenilebilirlik Testi uygulanmalıdır. Test edilmemiş, sütlü özsuyu olan, şemsiye şeklinde çiçekleri bulunan veya parlak renkli meyvelere sahip bitkiler zehirli olabileceğinden kesinlikle tüketilmemelidir."
+    },
+    {
+        "id": 23,
+        "kaynak": "Doğada Hayatta Kalma Rehberi",
+        "chunk_text": "Doğada Ateş Yakma Yöntemleri: Ateş yakmak için öncelikle kuru çalılar, yapraklar, ince kuru dallar ve kav (kuru ot, huş ağacı kabuğu) toplanmalıdır. Ateş yakılacak alan rüzgardan korunmalı ve çevresi taşlarla çevrilmelidir. Odunlar çadır şeklinde kurulup altına kav yerleştirildikten sonra çakmak, kibrit veya magnezyum çubuğu yardımıyla tutuşturulur."
+    },
+    {
+        "id": 24,
+        "kaynak": "Doğada Hayatta Kalma Rehberi",
+        "chunk_text": "Yenilebilir Çiçekler ve Gül Tüketimi: Doğada bulunabilen bazı çiçekler yenilebilir özelliktedir. Örneğin gül yaprakları, papatya ve lavanta temizlenip yıkanarak salatalarda, reçel yapımında veya çay olarak güvenle tüketilebilir (gül yenilebilir). Ancak zakkum, yüksük otu gibi son derece zehirli çiçekler kesinlikle yenmemeli ve ağza alınmamalıdır."
+    },
+    {
+        "id": 25,
+        "kaynak": "Doğada Hayatta Kalma Rehberi",
+        "chunk_text": "Doğada Barınak Yapımı: Doğada hayatta kalırken rüzgar ve yağmurdan korunmak için geçici barınak yapılmalıdır. Barınak yapmak için iki adet ağaç arasına sağlam bir dal yatay olarak yerleştirilir. This yatay dalın üzerine yan yana eğik olarak kalın dallar yaslanır. Dalların üzeri yapraklar, çalılar, toprak veya çam dallarıyla kalın bir tabaka halinde kaplanarak yalıtım sağlanır. Barınağın tabanına ise nemi kesmek için kuru otlar serilmelidir."
+    }
+]
